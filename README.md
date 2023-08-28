@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohit Baraik BHadawa Hai
+- 👋 Hi, I’m Mohit Baraik
 - 👀 I’m interested in Data Science , Data Analytics , Machine Learning , Deep Learning
 - 🌱 I’m currently learning Data science
 
